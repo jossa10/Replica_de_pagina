@@ -1,0 +1,43 @@
+body{
+    background: url(./audi-A7.jpg)no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+
+li{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:  20px;
+    color: #fdfbfb;
+}
+
+h1{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    font-size: 50px;
+}
+
+p{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    font-size: 20px;
+    justify-content: space-around;
+}
+
+.caja{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: beige;
+    width: 30%;
+    justify-content: center center;
+    max-width: 600px;
+    border-radius: 3px;
+    align-self: center center;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 2% 32% 70px 32%;
+}
